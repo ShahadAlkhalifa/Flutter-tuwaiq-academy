@@ -1,0 +1,5 @@
+# Switch Statements
+
+Switch statements can be used instead of long if-else statements, such that it can be in the form of cases for each input. We can compare integers, strings, or constants and the compared objects must be in the same class. Switch statements in Dart must end with a break or else it will follow all cases. 
+
+Source: https://riptutorial.com/dart/example/3055/switch-case
